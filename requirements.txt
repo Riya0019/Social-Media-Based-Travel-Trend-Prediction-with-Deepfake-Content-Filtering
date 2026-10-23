@@ -1,0 +1,12 @@
+pandas
+numpy
+pytrends
+openpyxl
+prophet
+statsmodels
+scikit-learn
+tensorflow
+opencv-python-headless
+pillow
+matplotlib
+kagglehub
